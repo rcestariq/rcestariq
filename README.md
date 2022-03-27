@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou Rodolfo Cestari Quintanilha
+- 👋 **Olá, eu sou Rodolfo Cestari Quintanilha**
 - 👀 Sou professor de Filosofia no Ensino Médio
 - 🌱 Atuo como técnico pedagógico na Secretaria da Educação do Paraná
 - 💞️ Gerencio o Programa Edutech e Pensamento Computacional no NRE-AMN
