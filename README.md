@@ -3,6 +3,7 @@
 - 🌱 Atuo como técnico pedagógico na Secretaria da Educação do Paraná
 - 💞️ Gerencio o Programa Edutech e Pensamento Computacional no NRE-AMN
 - 📫 Meu e-mail de contato: rodolfo.quintanilha@escola.pr.gov.br
+-  <a href="https://www.linkedin.com/in/rodolfo-cestari-quintanilha-20245b239" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
 
